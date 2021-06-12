@@ -1,0 +1,20 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-19e1d21788a7677b5b05d708e748e6f5
+# Starting compiling UnityEngine.UI.dll
+/mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-490cea643f058024fbc5e98266068f30
+# Starting compiling Unity.Timeline.dll
+/mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-200726f0f6afe83569eccdbe438281e4
+# Starting compiling Unity.TextMeshPro.dll
+/mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-593a6e254267f967f9ca83b74827ee4f
+# Starting compiling Unity.RenderPipelines.Core.Runtime.dll
+/mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-78d93739b97f0de1a8af430aa96c9c72
+# Starting compiling Unity.RenderPipelines.Core.ShaderLibrary.dll
+/mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-148f9582efebca1bba4ed46be6919dfd
+# Starting compiling Unity.Formats.Fbx.Runtime.dll
+/mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-42965a8308b7a2ce296bf95362bca922
+# Starting compiling Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+/mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-81a65613fc1ec2e8ebdffc64abdc8f2b
+# Starting compiling FbxBuildTestAssets.dll
+/mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-75447d8ab1aec114b8dc7087c2a46ec0
+# Starting compiling Assembly-CSharp.dll
+/mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/Unity/2020.3.2f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b12410e12ff3be8b1b6d6ceff245f40c

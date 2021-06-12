@@ -1,0 +1,4 @@
+#Sat Jun 05 15:08:54 EEST 2021
+base.0=/mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/launcher/build/intermediates/dex/release/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

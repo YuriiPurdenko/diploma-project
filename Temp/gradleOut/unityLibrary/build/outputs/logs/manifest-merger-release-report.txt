@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:70-98
+		INJECTED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:3:3-45
+INJECTED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:3:3-45
+INJECTED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:3:3-45
+INJECTED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:3:3-45
+INJECTED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:3:3-45
+	android:targetSdkVersion
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:3:13-42
+		INJECTED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:3:3-45
+		INJECTED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:4:3-63
+	android:name
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:4:20-60
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:3-79
+	android:name
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:20-76
+uses-permission#android.permission.INTERNET
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:6:3-65
+	android:name
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:6:20-62
+uses-feature#0x00020000
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:8:3-76
+	android:glEsVersion
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:8:17-49
+	android:required
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:8:50-73
+uses-feature#android.hardware.camera
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:10:3-82
+	android:required
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:10:56-79
+	android:name
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:10:17-55
+supports-screens
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:12:3-163
+	android:largeScreens
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:12:47-74
+	android:smallScreens
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:12:104-131
+	android:normalScreens
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:12:75-103
+	android:xlargeScreens
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:12:132-160
+	android:anyDensity
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:12:21-46
+application
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:13:3-26:17
+	android:label
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:13:16-48
+	android:icon
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:13:49-80
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:14:5-20:16
+	android:screenOrientation
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:14:69-107
+	android:launchMode
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:14:108-139
+	android:hardwareAccelerated
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:14:322-357
+	android:configChanges
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:14:140-321
+	android:name
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:14:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:15:7-18:23
+action#android.intent.action.MAIN
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:16:9-61
+	android:name
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:16:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:17:9-69
+	android:name
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:17:19-66
+meta-data#android.notch_support
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:7-78
+	android:value
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:55-75
+	android:name
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:18-54
+meta-data#com.google.ar.core
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:21:5-77
+	android:value
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:21:50-74
+	android:name
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:21:16-49
+meta-data#unity.splash-mode
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:22:5-69
+	android:value
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:22:49-66
+	android:name
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:22:16-48
+meta-data#unity.splash-enable
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:23:5-74
+	android:value
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:23:51-71
+	android:name
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:23:16-50
+meta-data#notch.config
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:24:5-81
+	android:value
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:24:44-78
+	android:name
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:24:16-43
+meta-data#unity.build-id
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:25:5-101
+	android:value
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:25:46-98
+	android:name
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:25:16-45
+uses-feature#android.hardware.camera.autofocus
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:27:3-93
+	android:required
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:27:66-90
+	android:name
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:27:17-65
+uses-feature#android.hardware.camera.front
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:28:3-89
+	android:required
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:28:62-86
+	android:name
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:28:17-61
+uses-feature#android.hardware.touchscreen
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:29:3-88
+	android:required
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:29:61-85
+	android:name
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:29:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:30:3-99
+	android:required
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:30:72-96
+	android:name
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:30:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:31:3-108
+	android:required
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:31:81-105
+	android:name
+		ADDED from /mnt/97ee16f6-0df0-4dc0-b96c-7faede21fd9c/University/Unity/Dyplom Project/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:31:17-80

@@ -1,0 +1,2 @@
+com/DefaultCompany/DyplomProject/BuildConfig.java
+ com.DefaultCompany.DyplomProject.BuildConfig
