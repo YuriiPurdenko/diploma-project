@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Projekt Dyplomowy 
+# Plenerowe zabawy dla dzieci z wykorzystaniem urządzeń mobilnych i rozszerzonej rzeczywistości 
+Projekt sklada się z dwóch gier, które są napisane w technoliogii AR
+Żeby zainstalować gry warto sciągnąć plik Android.apk, który znajduje się w folderze Builds 
+## Podręcznik użytkownika
+#Gra zaczyna się od glównego menu, w którym użytkownik może wybrać grę "Hide and seek" lub "Run in Gates"
+![Image](src)
 
-You can use the [editor on GitHub](https://github.com/YuriiPurdenko/diploma-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Hide and Seek Game 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Po wyborze gry "Hide and Seek" użytkownik zobacze:   ![Image](src)
+2. Użytkownik musi przechylać telefon, aż zobaczy przycisk "Initialize" ![Image](src)
+3. Po naciśnięciu przycisku użytkownik musi umieścić jajka, naciskając środkowy przycisk i przesuwając jaja które się pojawią.![Image](src)
+4. Jeśli użytkownik już chce rozpącząć grę, to musi nacisnąc na przycisk "Start Seek" lub jeśli chce od nowa umieścić jajka, to na górny prawy przycisk
+5. Po naciśnięciu przycisku "Start Seek" uzytkownik oddaje telefon dziecku i ono już szuka jaja za pomocy dzwięku![Image](src)
+6. Kiedy dziecko znajdzie wszystkie jaja, to zobaczy taki ekran ![Image](src) w którym znajduję się wynik gry(czas za który byly znalezione wszystkie jaja)
+7. Uzytkownik może wybrać zagrać jszecze raz w tym samym trybie lub powrócić się w glówne menu.
 
-### Markdown
+### Hide and Seek Game 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Po wyborze gry "Run in Gates" użytkownik zobacze:   ![Image](src)
+2. Użytkownik musi przechylać telefon, aż zobaczy przycisk "Initialize" ![Image](src)
+3. Po naciśnięciu przycisku użytkownik musi umieścić bramy, naciskając środkowy przycisk i przesuwając bramy które się pojawią.![Image](src)
+4. Jeśli użytkownik już chce rozpącząć grę, to musi nacisnąc na przycisk "Start" lub jeśli chce od nowa umieścić bramy, to na górny prawy przycisk
+5. Po naciśnięciu przycisku "Start Seek" uzytkownik oddaje telefon dziecku i ono już szuka jaja za pomocy dzwięku![Image](src)
+6. Kiedy dziecko przebiegnie przez wszystkie bramy , to zobaczy taki ekran ![Image](src) w którym znajduję się wynik gry
+7. Uzytkownik może wybrać zagrać jszecze raz w tym samym trybie lub powrócić się w glówne menu.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YuriiPurdenko/diploma-project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
