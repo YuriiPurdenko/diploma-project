@@ -1,7 +1,7 @@
 # Projekt Dyplomowy 
 # Plenerowe zabawy dla dzieci z wykorzystaniem urządzeń mobilnych i rozszerzonej rzeczywistości 
 Projekt sklada się z dwóch gier, które są napisane w technoliogii AR
-Żeby zainstalować gry warto sciągnąć plik Android.apk, który znajduje się w folderze Builds: https://github.com/YuriiPurdenko/diploma-project/raw/master/Builds/Android.apk
+Żeby zainstalować gry warto sciągnąć [plik Android.apk](https://github.com/YuriiPurdenko/diploma-project/raw/master/Builds/Android.apk)
 ## Podręcznik użytkownika
 #Gra zaczyna się od glównego menu, w którym użytkownik może wybrać grę "Hide and seek" lub "Run in Gates"
 ![Image](src)
