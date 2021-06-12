@@ -1,5 +1,4 @@
-# Projekt Dyplomowy 
-# Plenerowe zabawy dla dzieci z wykorzystaniem urządzeń mobilnych i rozszerzonej rzeczywistości 
+# Projekt Dyplomowy : Plenerowe zabawy dla dzieci z wykorzystaniem urządzeń mobilnych i rozszerzonej rzeczywistości 
 Projekt sklada się z dwóch gier, które są napisane w technoliogii AR
 Żeby zainstalować gry warto sciągnąć [plik Android.apk](https://github.com/YuriiPurdenko/diploma-project/raw/master/Builds/Android.apk)
 ## Podręcznik użytkownika
@@ -16,7 +15,7 @@ Projekt sklada się z dwóch gier, które są napisane w technoliogii AR
 6. Kiedy dziecko znajdzie wszystkie jaja, to zobaczy taki ekran ![Image](src) w którym znajduję się wynik gry(czas za który byly znalezione wszystkie jaja)
 7. Uzytkownik może wybrać zagrać jszecze raz w tym samym trybie lub powrócić się w glówne menu.
 
-### Hide and Seek Game 
+#### Hide and Seek Game 
 
 1. Po wyborze gry "Run in Gates" użytkownik zobacze:   ![Image](src)
 2. Użytkownik musi przechylać telefon, aż zobaczy przycisk "Initialize" ![Image](src)
