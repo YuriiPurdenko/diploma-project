@@ -7,7 +7,7 @@ Gra zaczyna się od glównego menu, w którym użytkownik może wybrać grę "Hi
 
 ### Hide and Seek Game 
 
-1. Po wyborze gry "Hide and Seek" użytkownik zobaczy:   ![Image](src)
+1. Po wyborze gry "Hide and Seek" użytkownik zobaczy:   ![Image](https://github.com/YuriiPurdenko/diploma-project/blob/gh-pages/photo_2021-08-29_12-21-44.jpg)
 2. Użytkownik musi przechylać telefon, aż zobaczy przycisk "Initialize" ![Image](src)
 3. Po naciśnięciu przycisku użytkownik musi umieścić jajka, naciskając środkowy przycisk i przesuwając jaja, które się pojawią.![Image](src)
 4. Jeśli użytkownik już chce rozpocząć grę, to musi nacisnąć na przycisk "Start Seek" lub jeśli chce od nowa umieścić jajka, to na górny prawy przycisk
